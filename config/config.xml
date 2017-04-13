@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="launch[0].caption">Editor</entry>
+<entry key="launch[0].target">C:\Program Files\Sakura\sakura.exe</entry>
+</properties>
